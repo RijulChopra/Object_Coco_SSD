@@ -1,0 +1,33 @@
+canvas
+{
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 0px;
+    white-space: pre-line;
+}
+
+#status
+{
+    font-size: 18px;
+}
+
+.href
+{
+    font-size: 20px;
+    margin-top: 50px;
+    width: 30%;
+    white-space: pre-line;
+}
